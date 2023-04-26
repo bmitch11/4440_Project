@@ -1,0 +1,21 @@
+body {
+    background: rgb(69, 50, 87)
+}
+
+h1.title {
+    color: slategray;
+    /* background-color: rgb(18, 148, 148); */
+}
+
+p1.names {
+    color: slategrey;
+    font-style: italic;
+}
+
+select.sel {
+    color: slategray;
+    background-color: rgb(69, 50, 87);
+    width: 270px;
+    height: 40px;
+    font-size: 200%;
+}
