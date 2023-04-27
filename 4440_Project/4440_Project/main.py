@@ -16,6 +16,8 @@ def form_submit():
         return render_template('overview.html')
     elif selected_option == 'Adult':
         return render_template('Adult.html')
+    elif selected_option == 'meals_continued':
+        return render_template('Meal_cont.html')
     elif selected_option == '':
         return render_template('Adult.html')
     else:
