@@ -1,0 +1,206 @@
+/* body {
+    background: rgb(69, 50, 87)
+}
+
+h1.title {
+    color: slategray;
+    /* background-color: rgb(18, 148, 148); */
+/* }
+
+p1.names {
+    color: slategrey;
+    font-style: italic;
+}
+
+select.sel {
+    color: slategray;
+    background-color: rgb(69, 50, 87);
+    width: 270px;
+    height: 40px;
+    font-size: 170%;
+}
+
+label.title {
+    color: slategray;
+    font-size: 100%;
+}
+
+/* CSS */
+/* .button-33 {
+    background-color: #c2fbd7;
+    border-radius: 100px;
+    box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset, rgba(44, 187, 99, .15) 0 1px 2px, rgba(44, 187, 99, .15) 0 2px 4px, rgba(44, 187, 99, .15) 0 4px 8px, rgba(44, 187, 99, .15) 0 8px 16px, rgba(44, 187, 99, .15) 0 16px 32px;
+    color: green;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-33:hover {
+    box-shadow: rgba(44, 187, 99, .35) 0 -25px 18px -14px inset, rgba(44, 187, 99, .25) 0 1px 2px, rgba(44, 187, 99, .25) 0 2px 4px, rgba(44, 187, 99, .25) 0 4px 8px, rgba(44, 187, 99, .25) 0 8px 16px, rgba(44, 187, 99, .25) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+} */
+/* body {
+    background-color: #202020;
+    color: #FFF;
+    font-family: Arial, sans-serif;
+}
+
+h1.title {
+    color: #FAB633;
+    text-align: center;
+}
+
+p.names {
+    color: #C1C1C1;
+    font-style: italic;
+}
+
+select.sel {
+    color: #FFF;
+    background-color: #4E4E4E;
+    width: 270px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+label.title {
+    color: #FAB633;
+    font-size: 16px;
+}
+
+.button-33 {
+    background-color: #FAB633;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+    color: #FFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.button-33:hover {
+    background-color: #FAB633;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    transform: translateY(-3px);
+} */
+/* body {
+    background: #f8f8f8;
+    font-family: Arial, sans-serif;
+}
+
+h1.title {
+    color: #333;
+    font-size: 3em;
+}
+
+p.names {
+    color: #999;
+    font-style: italic;
+}
+
+select.sel {
+    color: #333;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1) inset;
+    font-size: 1.2em;
+    padding: 5px;
+    width: 100%;
+}
+
+label.title {
+    color: #333;
+    font-size: 1.2em;
+}
+
+.button-33 {
+    background-color: #333;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 250ms ease-in-out;
+}
+
+.button-33:hover {
+    background-color: #444;
+} */
+
+body {
+    background-color: #0e0e0e;
+}
+
+h1.title {
+    color: #baff29;
+    font-size: 450%;
+}
+
+p1.names {
+    color: #baff29;
+    font-style: italic;
+}
+
+select.sel {
+    color: #baff29;
+    background-color: #0e0e0e;
+    width: 270px;
+    height: 40px;
+    font-size: 170%;
+    border: 1px solid #baff29;
+    border-radius: 8px;
+}
+
+label.title {
+    color: #baff29;
+    font-size: 140%;
+}
+
+/* CSS */
+.button-33 {
+    background-color: #baff29;
+    border-radius: 100px;
+    box-shadow: rgba(186, 255, 41, .2) 0 -25px 18px -14px inset, rgba(186, 255, 41, .15) 0 1px 2px, rgba(186, 255, 41, .15) 0 2px 4px, rgba(186, 255, 41, .15) 0 4px 8px, rgba(186, 255, 41, .15) 0 8px 16px, rgba(186, 255, 41, .15) 0 16px 32px;
+    color: #0e0e0e;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-33:hover {
+    box-shadow: rgba(186, 255, 41, .35) 0 -25px 18px -14px inset, rgba(186, 255, 41, .25) 0 1px 2px, rgba(186, 255, 41, .25) 0 2px 4px, rgba(186, 255, 41, .25) 0 4px 8px, rgba(186, 255, 41, .25) 0 8px 16px, rgba(186, 255, 41, .25) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+}
